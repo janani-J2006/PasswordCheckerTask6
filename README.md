@@ -9,17 +9,6 @@ Used Bitwarden Password Strength Tester (https://bitwarden.com/password-strength
 
 🔹 Step 3: Created multiple passwords of different complexity levels
 
-Examples:
-
-Very weak password → 12345
-
-Weak password → apple123
-
-Good password → Apple123
-
-Strong password → Apple@12345
-
-Very strong password → A$pP!e_2025!Secure
 
 🔹 Step 4: Tested each password in Bitwarden Password Strength Tester
 
@@ -37,7 +26,6 @@ Good
 
 Strong
 
-Very Strong (if achieved)
 
 🔹 Step 6: Analyzed results from Bitwarden
 
@@ -58,6 +46,7 @@ Use password managers for generating and storing strong, unique passwords.
 
 Enable multi-factor authentication for extra security.
 
+---
 ✅ Additional Insight from Testing Similar Passwords
 During testing, I compared these two passwords:
 
