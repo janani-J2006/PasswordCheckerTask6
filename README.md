@@ -76,3 +76,7 @@ Mandatory 2FA could lock out users who cannot receive verification codes or use 
 Librarians warned that forcing 2FA could increase the digital divide, disproportionately affecting low-income or marginalized populations who depend on library access for communication and essential services.
 
 Google considered these points and decided not to mandate 2FA globally, instead focusing on gradual adoption and risk-based enrollment.
+
+---
+🔐 **Prepared by:** Janani J  
+💻 **Task:** Password Strength Evaluation — Cybersecurity Learning    
